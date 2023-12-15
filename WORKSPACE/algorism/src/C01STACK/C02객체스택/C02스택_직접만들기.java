@@ -7,7 +7,6 @@ class Node{
 	int data;
 	Node next;
 }
-
 public class C02스택_직접만들기 {
 
 	//Top Pointer
